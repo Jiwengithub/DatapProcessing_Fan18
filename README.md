@@ -1,1 +1,1 @@
-# DatapProcessing_Fan18
+This repository includes three files for (1) data processing details to reproduce the results from the observational part of Fan et al. Science, 2018 (Fan18), (2) the NCL code for the data analysis, and (3) the input file to run the code. 
